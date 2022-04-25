@@ -1,2 +1,2 @@
-# HW-Cycle-FOR-drawing-square-hashtag-dot
-Folosirea-ciclului-for-pentru-patterns
+# HW-Cycle-FOR
+Folosirea-ciclului-for-pentru-patterns-drawing-square-hashtag-dot
